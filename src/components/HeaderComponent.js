@@ -8,7 +8,7 @@ const HeaderComponent = () => {
   };
 
   return (
-    <div className='bg-white px-8'>
+    <div className='bg-white px-8 shadow-md fixed w-full'>
       <div className='flex justify-between items-center w-full py-5'>
 
         <div className='flex items-center'>
