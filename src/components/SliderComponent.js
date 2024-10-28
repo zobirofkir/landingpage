@@ -2,7 +2,7 @@ import React from 'react'
 
 const SliderComponent = () => {
   return (
-    <div className='flex flex-col gap-4 justify-center items-center h-screen shadow-md bg-gradient-to-r from-gray-300 to-white'>
+    <div id='home' className='flex flex-col gap-4 justify-center items-center h-screen shadow-md bg-gradient-to-r from-gray-300 to-white'>
         <div>
             <h1 className='text-3xl font-bold whitespace-wrap text-center'>
                 Hello World Hello World Hello World 
